@@ -4,15 +4,15 @@ body {
 }
 
 div {
-  width: 50%;
-  padding: 5px 
+  width: 45%;
+  /* padding: 5px;  */
   color: rgb(251, 223, 223);
   text-align: center;
-  margin-left: 25%;
+  margin-left: 27%;
 }
 
 img {
-    /* padding: 10px; */
+  /* padding: 10px; */
   border: 10px solid white;
   width: 80%;
 }
