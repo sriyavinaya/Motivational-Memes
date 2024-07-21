@@ -4,10 +4,10 @@ body {
 
 img {
   width: 60%;
+  border: 10px dashed aliceblue;
 }
 
 div {
-  border: 10px dotted aliceblue;
   margin-left: 30%;
   width: 40%;
   text-align: center;
