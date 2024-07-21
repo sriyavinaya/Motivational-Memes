@@ -1,0 +1,23 @@
+body {
+  background-color: black;
+}
+
+h1 {
+  color: aquamarine;
+  font-size: 3rem;
+}
+
+a {
+  font-size: 2rem;
+  text-align: center;
+  color: beige;
+  text-decoration: none;
+  padding: 20px;
+}
+
+div {
+  margin-top: 20%;
+  /* margin-left: 25%; */
+  text-align: center;
+  width: 100%;
+}
