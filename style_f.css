@@ -1,0 +1,35 @@
+body {
+  background-color: black;
+  text-align: center;
+}
+
+div {
+  width: 50%;
+  padding: 5px 
+  color: rgb(251, 223, 223);
+  text-align: center;
+  margin-left: 25%;
+}
+
+img {
+    /* padding: 10px; */
+  border: 10px solid white;
+  width: 80%;
+}
+
+h1 {
+  text-transform: uppercase;
+  font-size: 4rem;
+}
+h2 {
+  font-family: cursive;
+  text-transform: lowercase;
+  font-size: 2rem;
+}
+
+.curvy {
+  font-family: "Playwrite CU", cursive;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
